@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F5D6B&height=120&section=header"/>
 
 <h1 align="left" style="font-weight: 900; color: #DEB9B9; margin-bottom: 5px;">
-  ✨ Hello World! I’m Lívian Lucena!
+   Hello World! I’m Lívian Lucena!
 </h1>
 
 <h2>✦ <strong>About Me</strong></h2>
