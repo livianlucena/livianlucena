@@ -45,9 +45,6 @@
 <p>
 <img src="https://img.shields.io/badge/Java-DEB9B9?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=8F5D6B" alt="Java Badge"/> 
 <img src="https://img.shields.io/badge/C-DEB9B9?style=for-the-badge&logo=c&logoColor=white&labelColor=8F5D6B" alt="C Badge"/> 
-<img src="https://img.shields.io/badge/C++-DEB9B9?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=8F5D6B" alt="C++ Badge" /> 
-<img src="https://img.shields.io/badge/Python-DEB9B9?style=for-the-badge&logo=python&logoColor=white&labelColor=8F5D6B" alt="Python Badge"/> 
-<img src="https://img.shields.io/badge/Django-DEB9B9?style=for-the-badge&logo=django&logoColor=white&labelColor=8F5D6B" alt="Django Badge"/> 
 <img src="https://img.shields.io/badge/HTML%20%26%20CSS-DEB9B9?style=for-the-badge&logo=html5&logoColor=white&labelColor=8F5D6B" alt="HTML & CSS Badge"/> 
 <img src="https://img.shields.io/badge/SQL-DEB9B9?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8F5D6B" alt="SQL Badge"/> 
 </p>
@@ -56,7 +53,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Figma-DEB9B9?style=for-the-badge&logo=figma&logoColor=white&labelColor=8F5D6B" alt="Figma Badge"/> 
-  <img src="https://img.shields.io/badge/LaTeX-DEB9B9?style=for-the-badge&logo=latex&logoColor=white&labelColor=8F5D6B" alt="LaTeX Badge"/> 
   <img src="https://img.shields.io/badge/VS_Code-DEB9B9?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=8F5D6B" alt="VS Code Badge"/> 
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-DEB9B9?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=8F5D6B" alt="IntelliJ IDEA Badge"/> 
   <img src="https://img.shields.io/badge/Git-DEB9B9?style=for-the-badge&logo=git&logoColor=white&labelColor=8F5D6B" alt="Git Badge"/> 
