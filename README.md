@@ -11,7 +11,7 @@
 <h2>✦ <strong>About Me</strong></h2>
 
 <p>
-  💻 Information Technology student at the Federal Rural University of the Semi-Arid (UFERSA) and Computer Technician from the Federal Institute of Rio Grande do Norte (IFRN), currently exploring software development and project modeling.
+💻 Information Technology student at the Federal Rural University of the Semi-Arid (UFERSA) and Computer Technician from the Federal Institute of Rio Grande do Norte (IFRN), currently exploring software development, UX concepts, and project modeling.
 </p>
 
 <h3>☕ <em>Coffee, Cats & Rock Enthusiast</em> </h3>
