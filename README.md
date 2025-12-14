@@ -1,5 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F5D6B&height=120&section=header"/>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=livianlucena&label=Profile%20views&color=8F5D6B&style=flat" alt="Profile views" />
+</p>
+
 <h1 align="left" style="font-weight: 900; color: #DEB9B9; margin-bottom: 5px;">
    Hello World! I’m Lívian Lucena!
 </h1>
