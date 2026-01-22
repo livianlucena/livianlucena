@@ -56,7 +56,6 @@
   <img src="https://img.shields.io/badge/VS_Code-cb2659?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=a20d3a" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-cb2659?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=a20d3a" />
   <img src="https://img.shields.io/badge/Git-cb2659?style=for-the-badge&logo=git&logoColor=white&labelColor=a20d3a" />
-  <img src="https://img.shields.io/badge/Trello-cb2659?style=for-the-badge&logo=trello&logoColor=white&labelColor=a20d3a" />
   <img src="https://img.shields.io/badge/PostgreSQL-cb2659?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=a20d3a" />
 </p>
 
