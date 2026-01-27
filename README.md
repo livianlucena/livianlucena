@@ -46,22 +46,22 @@
 <h2>✦ <strong>Skills & Tools</strong></h2>
 
 <h3><strong>Skills</strong></h3>
-
 <p>
-  <img src="https://img.shields.io/badge/Java-b86a7d?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=994355" />
-  <img src="https://img.shields.io/badge/C-b86a7d?style=for-the-badge&logo=c&logoColor=white&labelColor=994355" />
-  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-b86a7d?style=for-the-badge&logo=html5&logoColor=white&labelColor=994355" />
-  <img src="https://img.shields.io/badge/SQL-b86a7d?style=for-the-badge&logo=mysql&logoColor=white&labelColor=994355" />
+  <img align="center" alt="Java" height="50" width="50" src="https://img.icons8.com/?size=100&id=2572&format=png&color=65313e">
+  <img align="center" alt="C" height="50" width="50" src="https://img.icons8.com/?size=100&id=25423&format=png&color=65313e">
+  <img align="center" alt="HTML5" height="50" width="50" src="https://img.icons8.com/?size=100&id=23028&format=png&color=65313e">
+  <img align="center" alt="CSS3" height="50" width="50" src="https://img.icons8.com/?size=100&id=qTLQNQjXAvIV&format=png&color=65313e">
+  <img align="center" alt="SQL" height="50" width="50" src="https://img.icons8.com/?size=100&id=wDKHrGlFU936&format=png&color=65313e">
 </p>
 
 <h3><strong>Tools</strong></h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-b86a7d?style=for-the-badge&logo=figma&logoColor=white&labelColor=994355" />
-  <img src="https://img.shields.io/badge/VS_Code-b86a7d?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=994355" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-b86a7d?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=994355" />
-  <img src="https://img.shields.io/badge/Git-b86a7d?style=for-the-badge&logo=git&logoColor=white&labelColor=994355" />
-  <img src="https://img.shields.io/badge/PostgreSQL-b86a7d?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=994355" />
+  <img align="center" alt="Figma" height="50" width="50" src="https://img.icons8.com/?size=100&id=amXjtNWVYSKP&format=png&color=65313e">
+  <img align="center" alt="VS Code" height="50" width="50" src="https://img.icons8.com/?size=100&id=121602&format=png&color=65313e">
+  <img align="center" alt="IntelliJ IDEA" height="50" width="50" src="https://img.icons8.com/?size=100&id=54510&format=png&color=65313e">
+  <img align="center" alt="Git" height="50" width="50" src="https://img.icons8.com/?size=100&id=38389&format=png&color=65313e">
+  <img align="center" alt="PostgreSQL" height="50" width="50" src="https://img.icons8.com/?size=100&id=36440&format=png&color=65313e">
 </p>
 
 <br>
@@ -70,6 +70,6 @@
 
 <p>
   <a href="mailto:livianmarialucena@gmail.com">
-    <img src="https://img.shields.io/badge/Email-b86a7d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=994355"/>
+    <img align="center" alt="Gmail" height="50" width="50" src="https://img.icons8.com/?size=100&id=Y2GfpkgYNp42&format=png&color=65313e">
   </a> 
 </p>
