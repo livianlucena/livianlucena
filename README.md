@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<h2>✦<strong>About Me</strong></h2>
+<h2>✦ <strong>About Me</strong></h2>
 
 <p>
   💻 Information Technology student at the Federal Rural University of the Semi-Arid (UFERSA) and
@@ -20,7 +20,7 @@
   software development, UX concepts, and project modeling.
 </p>
 
-<h3>☕<em>Coffee, Cats & Rock Enthusiast</em></h3>
+<h3>☕ <em>Coffee, Cats & Rock Enthusiast</em></h3>
 
 <div align="center" style="margin-top: 10px;">
   <img
@@ -30,7 +30,7 @@
   />
 </div>
 
-<h2>✦<strong>GitHub Stats</strong></h2>
+<h2>✦ <strong>GitHub Stats</strong></h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img
@@ -43,7 +43,7 @@
   />
 </div>
 
-<h2>✦<strong>Skills & Tools</strong></h2>
+<h2>✦ <strong>Skills & Tools</strong></h2>
 
 <h3><strong>Skills</strong></h3>
 
