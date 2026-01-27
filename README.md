@@ -1,12 +1,12 @@
 <img 
   width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=994355&height=140&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=994355&height=120&section=header"
 />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=994355&center=true&vCenter=true&random=false&width=800&lines=Hello+World!+I%E2%80%99m+L%C3%ADvian+Lucena!" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=994355&center=true&vCenter=true&random=false&width=800&lines=Hello+World!+I%E2%80%99m+L%C3%ADvian+Lucena!" 
       alt="Typing SVG"
     >
   </a>
