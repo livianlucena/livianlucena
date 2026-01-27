@@ -76,8 +76,7 @@
 
 <div align="center">
     <img 
-      src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=994355&l2=BF7BA3&l3=D18DBA&l4=E6B0C1&bg=none&frame=none&speed=250&comment=" 
+      src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=6F2A40&l2=6F2A40&l3=6F2A40&l4=6F2A40&bg=none&frame=none&comment=" 
       alt="Thank you for visiting my profile!"
     >
 </div>
-
