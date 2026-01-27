@@ -3,11 +3,16 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=a20d3a&height=120&section=header"
 />
 
-<h1 align="left" style="font-weight: 900; color: #cb2659; margin-bottom: 5px;">
-  Hello World! I’m Lívian Lucena!
-</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CB2659&center=true&vCenter=true&random=false&width=524&lines=Hello+World!+I%E2%80%99m+L%C3%ADvian+Lucena!" 
+      alt="Typing SVG"
+    >
+  </a>
+</div>
 
-<h2 style="color:#cb2659;">✦ <strong>About Me</strong></h2>
+<h2>✦<strong>About Me</strong></h2>
 
 <p>
   💻 Information Technology student at the Federal Rural University of the Semi-Arid (UFERSA) and
@@ -15,7 +20,7 @@
   software development, UX concepts, and project modeling.
 </p>
 
-<h3 style="color:#cb2659;">☕ <em>Coffee, Cats & Rock Enthusiast</em></h3>
+<h3>☕<em>Coffee, Cats & Rock Enthusiast</em></h3>
 
 <div align="center" style="margin-top: 10px;">
   <img
@@ -25,7 +30,7 @@
   />
 </div>
 
-<h2 style="color:#cb2659;">✦ <strong>GitHub Stats</strong></h2>
+<h2 >✦<strong>GitHub Stats</strong></h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img
@@ -38,7 +43,7 @@
   />
 </div>
 
-<h2 style="color:#cb2659;">✦ <strong>Skills & Tools</strong></h2>
+<h2>✦<strong>Skills & Tools</strong></h2>
 
 <h3><strong>Skills</strong></h3>
 
@@ -61,7 +66,7 @@
 
 <br>
 
-<h2 style="color:#cb2659;">✦ <strong>Contact Me</strong></h2>
+<h2>✦ <strong>Contact Me</strong></h2>
 
 <p>
   <a href="mailto:livianmarialucena@gmail.com">
