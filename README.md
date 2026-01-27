@@ -48,20 +48,20 @@
 <h3><strong>Skills</strong></h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=994355" />
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white&labelColor=994355" />
-  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-555555?style=for-the-badge&logo=html5&logoColor=white&labelColor=994355" />
-  <img src="https://img.shields.io/badge/SQL-555555?style=for-the-badge&logo=mysql&logoColor=white&labelColor=994355" />
+  <img src="https://img.shields.io/badge/Java-b86a7d?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=994355" />
+  <img src="https://img.shields.io/badge/C-b86a7d?style=for-the-badge&logo=c&logoColor=white&labelColor=994355" />
+  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-b86a7d?style=for-the-badge&logo=html5&logoColor=white&labelColor=994355" />
+  <img src="https://img.shields.io/badge/SQL-b86a7d?style=for-the-badge&logo=mysql&logoColor=white&labelColor=994355" />
 </p>
 
 <h3><strong>Tools</strong></h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-555555?style=for-the-badge&logo=figma&logoColor=white&labelColor=994355" />
-  <img src="https://img.shields.io/badge/VS_Code-555555?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=994355" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-555555?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=994355" />
-  <img src="https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=white&labelColor=994355" />
-  <img src="https://img.shields.io/badge/PostgreSQL-555555?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=994355" />
+  <img src="https://img.shields.io/badge/Figma-b86a7d?style=for-the-badge&logo=figma&logoColor=white&labelColor=994355" />
+  <img src="https://img.shields.io/badge/VS_Code-b86a7d?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=994355" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-b86a7d?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=994355" />
+  <img src="https://img.shields.io/badge/Git-b86a7d?style=for-the-badge&logo=git&logoColor=white&labelColor=994355" />
+  <img src="https://img.shields.io/badge/PostgreSQL-b86a7d?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=994355" />
 </p>
 
 <br>
@@ -70,6 +70,6 @@
 
 <p>
   <a href="mailto:livianmarialucena@gmail.com">
-    <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=994355"/>
+    <img src="https://img.shields.io/badge/Email-b86a7d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=994355"/>
   </a> 
 </p>
