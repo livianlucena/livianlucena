@@ -73,10 +73,3 @@
     <img src="https://img.shields.io/badge/Email-b86a7d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=994355"/>
   </a> 
 </p>
-
-<div align="center">
-    <img 
-      src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=6F2A40&l2=6F2A40&l3=6F2A40&l4=6F2A40&bg=none&frame=none&comment=" 
-      alt="Thank you for visiting my profile!"
-    >
-</div>
