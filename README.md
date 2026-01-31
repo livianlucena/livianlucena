@@ -21,8 +21,8 @@
 
 <p>
   💻 Information Technology student at the Federal Rural University of the Semi-Arid (UFERSA) and
-  Computer Technician from the Federal Institute of Rio Grande do Norte (IFRN), currently exploring
-  different areas of technology and continuously expanding my skills.
+  Computer Technician from the Federal Institute of Education, Science and Technology of Rio Grande do Norte (IFRN), 
+  currently exploring different areas of technology and continuously expanding my skills.
 </p>
 
 <h3>☕ <em>Coffee, Cats & Rock Enthusiast</em></h3>
