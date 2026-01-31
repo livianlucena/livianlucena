@@ -1,12 +1,12 @@
 <img 
   width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=994355&height=120&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=AC5F69&height=120&section=header"
 />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=994355&center=true&vCenter=true&random=false&width=800&lines=Hello+World!+I%E2%80%99m+L%C3%ADvian+Lucena!" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=AC5F69&center=true&vCenter=true&random=false&width=800&lines=Hello+World!+I%E2%80%99m+L%C3%ADvian+Lucena!" 
       alt="Typing SVG"
     >
   </a>
@@ -35,7 +35,7 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img
     height="160"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=livianlucena&title_color=994355&text_color=ffffff&icon_color=994355&bg_color=00000000&show_icons=true&hide_border=true&border_radius=20"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=livianlucena&title_color=AC5F69&text_color=ffffff&icon_color=AC5F69&bg_color=00000000&show_icons=true&hide_border=true&border_radius=20"
   />
   <img
     height="160"
@@ -48,21 +48,21 @@
 <h3><strong>Skills</strong></h3>
 
 <p>
-  <img align="center" alt="Java" height="45" width="45" src="https://img.icons8.com/?size=100&id=2572&format=png&color=65313e">
-  <img align="center" alt="C" height="45" width="45" src="https://img.icons8.com/?size=100&id=25423&format=png&color=65313e">
-  <img align="center" alt="HTML5" height="45" width="45" src="https://img.icons8.com/?size=100&id=23028&format=png&color=65313e">
-  <img align="center" alt="CSS3" height="45" width="45" src="https://img.icons8.com/?size=100&id=qTLQNQjXAvIV&format=png&color=65313e">
-  <img align="center" alt="SQL" height="45" width="45" src="https://img.icons8.com/?size=100&id=wDKHrGlFU936&format=png&color=65313e">
+  <img align="center" alt="Java" height="45" width="45" src="https://img.icons8.com/?size=100&id=2572&format=png&color=ac5f69">
+  <img align="center" alt="C" height="45" width="45" src="https://img.icons8.com/?size=100&id=25423&format=png&color=ac5f69">
+  <img align="center" alt="HTML5" height="45" width="45" src="https://img.icons8.com/?size=100&id=7hA5Ny9rDAmV&format=png&color=ac5f69">
+  <img align="center" alt="CSS3" height="45" width="45" src="https://img.icons8.com/?size=100&id=qTLQNQjXAvIV&format=png&color=ac5f69">
+  <img align="center" alt="SQL" height="45" width="45" src="https://img.icons8.com/?size=100&id=wDKHrGlFU936&format=png&color=ac5f69">
 </p>
 
 <h3><strong>Tools</strong></h3>
 
 <p>
-  <img align="center" alt="Figma" height="45" width="45" src="https://img.icons8.com/?size=100&id=amXjtNWVYSKP&format=png&color=65313e">
-  <img align="center" alt="VS Code" height="45" width="45" src="https://img.icons8.com/?size=100&id=121602&format=png&color=65313e">
-  <img align="center" alt="IntelliJ IDEA" height="45" width="45" src="https://img.icons8.com/?size=100&id=54510&format=png&color=65313e">
-  <img align="center" alt="Git" height="45" width="45" src="https://img.icons8.com/?size=100&id=38389&format=png&color=65313e">
-  <img align="center" alt="PostgreSQL" height="45" width="45" src="https://img.icons8.com/?size=100&id=36440&format=png&color=65313e">
+  <img align="center" alt="Figma" height="45" width="45" src="https://img.icons8.com/?size=100&id=amXjtNWVYSKP&format=png&color=ac5f69">
+  <img align="center" alt="VS Code" height="45" width="45" src="https://img.icons8.com/?size=100&id=121602&format=png&color=ac5f69">
+  <img align="center" alt="IntelliJ IDEA" height="45" width="45" src="https://img.icons8.com/?size=100&id=54510&format=png&color=ac5f69">
+  <img align="center" alt="Git" height="45" width="45" src="https://img.icons8.com/?size=100&id=38389&format=png&color=ac5f69">
+  <img align="center" alt="PostgreSQL" height="45" width="45" src="https://img.icons8.com/?size=100&id=36440&format=png&color=ac5f69">
 </p>
 
 <br>
@@ -71,6 +71,6 @@
 
 <p>
   <a href="mailto:livianmarialucena@gmail.com">
-    <img align="center" alt="Gmail" height="45" width="45" src="https://img.icons8.com/?size=100&id=Y2GfpkgYNp42&format=png&color=65313e">
+    <img align="center" alt="Gmail" height="45" width="45" src="https://img.icons8.com/?size=100&id=Y2GfpkgYNp42&format=png&color=ac5f69">
   </a> 
 </p>
