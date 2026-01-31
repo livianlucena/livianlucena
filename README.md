@@ -39,7 +39,7 @@
   />
   <img
     height="160"
-    src="https://streak-stats.demolab.com?user=livianlucena&stroke=994355&ring=b86a7d&fire=b86a7d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b86a7d&sideLabels=b86a7d&dates=ffffff&background=00000000&hide_border=true&border_radius=20"
+    src="https://streak-stats.demolab.com?user=livianlucena&stroke=AC5F69&ring=AC5F69&fire=AC5F69&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=AC5F69&sideLabels=AC5F69&dates=ffffff&background=00000000&hide_border=true&border_radius=20"
   />
 </div>
 
