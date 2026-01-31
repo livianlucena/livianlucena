@@ -69,8 +69,8 @@
 
 <h2>✦ <strong>Contact Me</strong></h2>
 
-<p>
-  <a href="mailto:livianmarialucena@gmail.com">
-    <img align="center" alt="Gmail" height="45" width="45" src="https://img.icons8.com/?size=100&id=Y2GfpkgYNp42&format=png&color=ac5f69">
-  </a> 
-</p>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=livianmarialucena@gmail.com" target="_blank">
+  <img align="center" alt="Gmail" height="45" width="45"
+    src="https://img.icons8.com/?size=100&id=Y2GfpkgYNp42&format=png&color=ac5f69">
+</a>
+
