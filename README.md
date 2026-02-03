@@ -59,21 +59,21 @@
 <h3><strong>Skills</strong></h3>
 
 <p>
-  <img alt="Java" height="45" width="45" src="https://img.icons8.com/?size=100&id=2572&format=png&color=ac5f69" />
-  <img alt="C" height="45" width="45" src="https://img.icons8.com/?size=100&id=7764&format=png&color=ac5f69" />
-  <img alt="HTML5" height="45" width="45" src="https://img.icons8.com/?size=100&id=101353&format=png&color=ac5f69" />
-  <img alt="CSS3" height="45" width="45" src="https://img.icons8.com/?size=100&id=102501&format=png&color=ac5f69" />
-  <img alt="SQL" height="45" width="45" src="https://img.icons8.com/?size=100&id=wDKHrGlFU936&format=png&color=ac5f69" />
+  <img alt="Java" title="Java" height="45" width="45" src="https://img.icons8.com/?size=100&id=2572&format=png&color=ac5f69" />
+  <img alt="C" title="C" height="45" width="45" src="https://img.icons8.com/?size=100&id=7764&format=png&color=ac5f69" />
+  <img alt="HTML5" title="HTML5" height="45" width="45" src="https://img.icons8.com/?size=100&id=101353&format=png&color=ac5f69" />
+  <img alt="CSS3" title="CSS3" height="45" width="45" src="https://img.icons8.com/?size=100&id=102501&format=png&color=ac5f69" />
+  <img alt="SQL" title="SQL" height="45" width="45" src="https://img.icons8.com/?size=100&id=wDKHrGlFU936&format=png&color=ac5f69" />
 </p>
 
 <h3><strong>Tools</strong></h3>
 
 <p>
-  <img alt="Figma" height="45" width="45" src="https://img.icons8.com/?size=100&id=amXjtNWVYSKP&format=png&color=ac5f69" />
-  <img alt="VS Code" height="45" width="45" src="https://img.icons8.com/?size=100&id=121602&format=png&color=ac5f69" />
-  <img alt="IntelliJ IDEA" height="45" width="45" src="https://img.icons8.com/?size=100&id=54510&format=png&color=ac5f69" />
-  <img alt="Git" height="45" width="45" src="https://img.icons8.com/?size=100&id=38389&format=png&color=ac5f69" />
-  <img alt="PostgreSQL" height="45" width="45" src="https://img.icons8.com/?size=100&id=36440&format=png&color=ac5f69" />
+  <img alt="Figma" title="Figma" height="45" width="45" src="https://img.icons8.com/?size=100&id=amXjtNWVYSKP&format=png&color=ac5f69" />
+  <img alt="Visual Studio Code" title="Visual Studio Code" height="45" width="45" src="https://img.icons8.com/?size=100&id=121602&format=png&color=ac5f69" />
+  <img alt="IntelliJ IDEA" title="IntelliJ IDEA" height="45" width="45" src="https://img.icons8.com/?size=100&id=54510&format=png&color=ac5f69" />
+  <img alt="Git" title="Git" height="45" width="45" src="https://img.icons8.com/?size=100&id=38389&format=png&color=ac5f69" />
+  <img alt="PostgreSQL" title="PostgreSQL" height="45" width="45" src="https://img.icons8.com/?size=100&id=36440&format=png&color=ac5f69" />
 </p>
 
 <br>
@@ -83,11 +83,6 @@
 
 <p>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=livianmarialucena@gmail.com" target="_blank">
-    <img
-      alt="Gmail"
-      height="45"
-      width="45"
-      src="https://img.icons8.com/?size=100&id=Y2GfpkgYNp42&format=png&color=ac5f69"
-    />
+    <img alt="Gmail" title="Gmail" height="45" width="45" src="https://img.icons8.com/?size=100&id=Y2GfpkgYNp42&format=png&color=ac5f69" />
   </a>
 </p>
