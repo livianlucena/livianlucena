@@ -60,7 +60,7 @@
 
 <p>
   <img alt="Java" title="Java" height="45" width="45" src="https://img.icons8.com/?size=100&id=2572&format=png&color=ac5f69" />
-  <img alt="C" title="C" height="45" width="45" src="https://img.icons8.com/?size=100&id=7764&format=png&color=ac5f69" />
+  <img alt="C" title="C" height="45" width="45" src="https://img.icons8.com/?size=100&id=61343&format=png&color=ac5f69" />
   <img alt="HTML5" title="HTML5" height="45" width="45" src="https://img.icons8.com/?size=100&id=101353&format=png&color=ac5f69" />
   <img alt="CSS3" title="CSS3" height="45" width="45" src="https://img.icons8.com/?size=100&id=102501&format=png&color=ac5f69" />
   <img alt="SQL" title="SQL" height="45" width="45" src="https://img.icons8.com/?size=100&id=wDKHrGlFU936&format=png&color=ac5f69" />
