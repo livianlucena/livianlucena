@@ -70,7 +70,7 @@
 
 <p>
   <img alt="Figma" title="Figma" height="45" width="45" src="https://img.icons8.com/?size=100&id=amXjtNWVYSKP&format=png&color=ac5f69" />
-  <img alt="Visual Studio Code" title="Visual Studio Code" height="45" width="45" src="https://img.icons8.com/?size=100&id=121602&format=png&color=ac5f69" />
+  <img alt="Visual Studio Code" title="Visual Studio Code" height="45" width="45" src="https://img.icons8.com/?size=100&id=9t5UEEYXq0ZS&format=png&color=ac5f69" />
   <img alt="IntelliJ IDEA" title="IntelliJ IDEA" height="45" width="45" src="https://img.icons8.com/?size=100&id=54510&format=png&color=ac5f69" />
   <img alt="Git" title="Git" height="45" width="45" src="https://img.icons8.com/?size=100&id=38389&format=png&color=ac5f69" />
   <img alt="PostgreSQL" title="PostgreSQL" height="45" width="45" src="https://img.icons8.com/?size=100&id=36440&format=png&color=ac5f69" />
