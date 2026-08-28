@@ -37,22 +37,6 @@
 
 <br>
 
-<!-- GITHUB STATS -->
-<h2>✦ <strong>GitHub Stats</strong></h2>
-
-<div align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=livianlucena&title_color=AC5F69&text_color=ffffff&icon_color=AC5F69&bg_color=00000000&show_icons=true&hide_border=true&border_radius=20&count_private=true&include_all_commits=true"
-  />
-  <img
-    height="160"
-    src="https://streak-stats.demolab.com?user=livianlucena&stroke=AC5F69&ring=AC5F69&fire=AC5F69&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=AC5F69&sideLabels=AC5F69&dates=ffffff&background=00000000&hide_border=true&border_radius=20"
-  />
-</div>
-
-<br>
-
 <!-- SKILLS & TOOLS -->
 <h2>✦ <strong>Skills & Tools</strong></h2>
 
